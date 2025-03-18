@@ -1,8 +1,8 @@
-# Chronicles of exoplanet exploration
-## NASA SPACE APPS CHALLENGE 
-Project presentation: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/los-maritos/?tab=project
+# NASA SPACE APPS CHALLENGE 
+## Chronicles of exoplanet exploration
 
 Challenge: https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/
+Project presentation: https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/los-maritos/?tab=project
 
 ## Screen Recordings of the project:
 
